@@ -1,3 +1,5 @@
+//Program to demonstrate the billing process of a grocery shop
+
 //Header Files
 #include <stdio.h>
 #include <conio.h>
