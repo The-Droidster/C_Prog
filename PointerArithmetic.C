@@ -1,3 +1,4 @@
+//Program to demonstrate basic arithmetic operations using pointers
 //pre-processor directives,header files
 
 #include<stdio.h>
