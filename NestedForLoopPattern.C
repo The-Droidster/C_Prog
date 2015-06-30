@@ -7,10 +7,10 @@
 void triangle(int);//takes no. of rows
 void pyramid(int);//takes no. of rows
 
-int main(int argc, char** argv)
+int main()
 {
     int rows;
-    //clrscr();
+    clrscr();
     printf("\nStar Pattern Generation Module!\n");
     printf("===============================\n\n");
     //take no. of rows as input from user
@@ -27,7 +27,7 @@ int main(int argc, char** argv)
 void triangle(int rows)
 {   
     int rowno,stars;
-    //clrscr();
+    clrscr();
     printf("\n==>Generating the Triangle with %d rows",rows);
     printf("\n=======================================\n\n");
     
@@ -48,7 +48,7 @@ void triangle(int rows)
 void pyramid(int rows)
 {
     int rowno,stars,spaces;
-    //clrscr();
+    clrscr();
     printf("\n==>Generating the Pyramid with %d rows",rows);
     printf("\n======================================\n\n");
     
