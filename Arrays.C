@@ -25,7 +25,7 @@ int main()
     
     //more arrays for passing as parameters - Demo array passing to functions
     int stud[3];
-    int adder[2];
+    int adder[3];
     
     //clrscr();
     
